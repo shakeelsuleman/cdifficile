@@ -1,3 +1,5 @@
 Clostridioides difficile
 
-Clostridioides difficile (C. difficile) is a bacterium that’s found in people’s intestines. It can be found in healthy people, where it causes no symptoms (up to 3% of adults and 66% of babies)
+Clostridioides difficile (C. difficile) is a bacterium that’s found in people’s intestines. It can be found in healthy people, where it causes no symptoms (up to 3% of adults and 66% of babies).
+
+C. difficile can lead to more serious infections of the intestines with severe inflammation of the bowel (pseudomembranous colitis). C. difficile is the biggest cause of infectious diarrhoea in hospitalised patients
